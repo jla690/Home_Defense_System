@@ -1,5 +1,5 @@
 # Home Defense System
-
+![Alt text](image2.png?raw=true "Optional Title")
 ## Directory Structure
 There are two main folders: target and host.
 target contains all files relevant to code which runs on the target (the BeagleBone Green).
