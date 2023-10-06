@@ -1,5 +1,6 @@
 # Home Defense System
-![Alt text](image2.png?raw=true "Optional Title")
+Screenshot of webpage. Sensor readings are inaccurate due to them not being connected at the time.
+![Alt text](image2.png?raw=true "Screenshot of webpage")
 ## Directory Structure
 There are two main folders: target and host.
 target contains all files relevant to code which runs on the target (the BeagleBone Green).
